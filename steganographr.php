@@ -9,6 +9,8 @@
 	
 	Hide messages within other messages using invisible characters
 	
+	Forked by me.
+	
 	by Neatnik LLC
 	https://neatnik.net
 	
